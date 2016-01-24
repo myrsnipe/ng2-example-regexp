@@ -1,0 +1,14 @@
+# These files are text and should be normalized (Convert crlf => lf)
+*.css text
+*.html text
+*.js text
+*.md text
+*.ts text
+
+# These files are binary and should be left untouched
+# (binary is a macro for -text -diff)
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# diffs

@@ -1,0 +1,36 @@
+{
+  "author": " <steffennilsen@gmail.com> (Steffen Nilsen <steffennilsen@gmail.com>)",
+  "bugs": {
+    "url": "https://github.com/myrsnipe/ng2-example-regexp/issues"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-beta.1",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.0",
+    "zone.js": "^0.5.10"
+  },
+  "description": "An example application for angular2",
+  "engines": {
+    "node": ">= 4.1",
+    "npm": ">= 3"
+  },
+  "homepage": "https://github.com/myrsnipe/ng2-example-regexp#readme",
+  "keywords": [
+    "angular",
+    "regexp"
+  ],
+  "license": "MIT",
+  "name": "ng2-example-regexp",
+  "private": true,
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myrsnipe/ng2-example-regexp"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "version": "0.0.1"
+}
